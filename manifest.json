@@ -1,0 +1,17 @@
+{
+  "format": 1,
+  "version": 1,
+  "generatedAt": "2026-10-13",
+  "files": {
+    "ranges.json": {
+      "sha256": "c9aab7b4d358a967354dc67b4a1c66cf4ea169eace00abdff88ebff8cfc65877",
+      "bytes": 442046
+    },
+    "stores.json": {
+      "sha256": "18dbbf0f5382fc7ea3b5c6346b6dd113864fca78b5719a94b2cbb39a645c33fe",
+      "bytes": 76290
+    }
+  },
+  "minAppVersion": "1.0.0",
+  "disabled": false
+}
